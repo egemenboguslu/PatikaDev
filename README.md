@@ -1,2 +1,2 @@
 # PatikaDev
- www.patika.dev - Homework - Java101
+ https://app.patika.dev/egemenboguslu
